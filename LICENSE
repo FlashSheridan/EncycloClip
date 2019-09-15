@@ -1,3 +1,9 @@
+tl;dr by Flash Sheridan:
+• If you want to install this on someone’s device (e.g. via Xcode), or distribute a compiled version, without substantial alterations to the source code, you’re fine.
+• If you want to install this on someone’s device (e.g. via Xcode), or distribute a compiled version, with substantial alterations to the source code, and you’re willing to let a user have your source changes if s/he requestes them, you’re fine.
+• If (which seems unlikely) you want to install this on someone’s device (e.g. via Xcode), or distribute a compiled version, with substantial alterations to the source code, and you’re not willing to let a user have your source changes if s/he requestes them, we should talk.
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
