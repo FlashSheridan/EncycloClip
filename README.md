@@ -12,8 +12,9 @@ a lookup to two from eight (or six if you have added it to your Home
 Screen), and eliminates an unnecessary web request.
 
 EncycloClip™ is neither endorsed by nor affiliated with Encyclopædia
-Britannica®. It merely facilitates access to their web site, which is
-ad-supported and sometimes needs to scroll down to reveal its search
+Britannica®. It merely facilitates access to their web site, which may require
+a subscription or show advertisements,
+and sometimes needs to scroll down to reveal its search
 results. On recent iOS versions, launching Safari can sometimes take
 several seconds; during this time a blank screen will be displayed.
 
@@ -22,5 +23,5 @@ Issues](http://pobox.com/~flash/EncycloClip/EncycloClip_Known_Issues.txt)
 
 For support, email <kwikmenu@pobox.com>.
 
-<span class="small">This page:
+<span class="small">Home page:
 <http://pobox.com/~flash/EncycloClip></span>
