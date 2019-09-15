@@ -1,0 +1,444 @@
+// !$*UTF8*$!
+{
+	1D33D6AA117AAB6000640D65 /* Icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{104, 28}, {1108, 953}}";
+		};
+	};
+	1D33D719117AC40800640D65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D33D6AA117AAB6000640D65 /* Icon.png */;
+	};
+	1D33D838117C242A00640D65 /* BritanniClipAppDelegate.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+		functionName = "-applicationDidBecomeActive:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = EncycloClip;
+		modificationTime = 298180275.173155;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1D3623240D0F684500981E51 /* BritanniClipAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {730, 361}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{95, 258}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1049, 988}}";
+			sepNavSelRange = "{596, 0}";
+			sepNavVisRange = "{0, 1461}";
+			sepNavWindowFrame = "{{524, 68}, {1108, 953}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* EncycloClip */ = {
+		activeExec = 0;
+		executables = (
+			1DAC9C1D115FAEF7004787A6 /* EncycloClip */,
+		);
+	};
+	1D63825D117A79F5008287D9 /* BritanniClipAppDelegate.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+		functionName = "-applicationDidBecomeActive:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = EncycloClip;
+		modificationTime = 298180276.17283;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1D88325811C5D97100412D56 /* MainWindow-iPad.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1049, 3534}}";
+			sepNavSelRange = "{8044, 0}";
+			sepNavVisRange = "{0, 2046}";
+			sepNavWindowFrame = "{{58, 70}, {1108, 953}}";
+		};
+	};
+	1D88327F11C5DD2000412D56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 62;
+		vrLoc = 228;
+	};
+	1D88337311C5F3C400412D56 /* Icon-iPad.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{56, 70}, {1108, 953}}";
+		};
+	};
+	1D9076CD122234ED0019771A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BritanniClip-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/flash/Documents/cvs/MyCode/iPhone_apps/BritanniClip/BritanniClip-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1DAC9C1D115FAEF7004787A6 /* EncycloClip */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EncycloClip;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1DAC9C2D115FAF18004787A6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = Rahul;
+			};
+		};
+	};
+	1DAC9C2E115FAF18004787A6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1DAC9C79115FBE6A004787A6 /* main.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 15;
+		location = EncycloClip;
+		modificationTime = 298180274.096798;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1DAC9CAC115FC1E2004787A6 /* main.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = EncycloClip;
+		modificationTime = 298180271.487605;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1DD1CD4E11C933BA0003CA57 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D88337311C5F3C400412D56 /* Icon-iPad.png */;
+	};
+	1DEDFFB8123DE00F00AC545A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 1D9076C5122208A70019771A /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/flash/Documents/cvs/MyCode/iPhone_apps/BritanniClip/Entitlements.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1DEDFFC7123DE43800AC545A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+	};
+	1DEDFFCC123F42B200AC545A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BritanniClip-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/flash/Documents/cvs/MyCode/iPhone_apps/BritanniClip/BritanniClip-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1DEDFFCD123F42B200AC545A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BritanniClipAppDelegate.h */;
+		name = "BritanniClipAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 95;
+	};
+	1DEDFFCE123F42B200AC545A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+		name = "BritanniClipAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 596;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 409;
+	};
+	1DEDFFCF123F42B200AC545A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+		name = "BritanniClipAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 596;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 409;
+	};
+	1DEDFFD2123F42B200AC545A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BritanniClipAppDelegate.m */;
+		name = "BritanniClipAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 596;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 0;
+	};
+	1DEDFFD3123F42B200AC545A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BritanniClip-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/flash/Documents/cvs/MyCode/iPhone_apps/BritanniClip/BritanniClip-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = AdHoc;
+		activeExecutable = 1DAC9C1D115FAEF7004787A6 /* EncycloClip */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* EncycloClip */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* EncycloClip */,
+		);
+		breakpoints = (
+			1DAC9C79115FBE6A004787A6 /* main.m:15 */,
+			1DAC9CAC115FC1E2004787A6 /* main.m:14 */,
+			1D63825D117A79F5008287D9 /* BritanniClipAppDelegate.m:47 */,
+			1D33D838117C242A00640D65 /* BritanniClipAppDelegate.m:30 */,
+		);
+		codeSenseManager = 1DAC9C2E115FAF18004787A6 /* Code sense */;
+		executables = (
+			1DAC9C1D115FAEF7004787A6 /* EncycloClip */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					233,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					440,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					552,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					399,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					512,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306044168;
+			PBXWorkspaceStateSaveDate = 306044168;
+		};
+		perUserProjectItems = {
+			1D33D719117AC40800640D65 /* PBXBookmark */ = 1D33D719117AC40800640D65 /* PBXBookmark */;
+			1D88327F11C5DD2000412D56 /* PBXTextBookmark */ = 1D88327F11C5DD2000412D56 /* PBXTextBookmark */;
+			1D9076CD122234ED0019771A /* PlistBookmark */ = 1D9076CD122234ED0019771A /* PlistBookmark */;
+			1DD1CD4E11C933BA0003CA57 /* PBXBookmark */ = 1DD1CD4E11C933BA0003CA57 /* PBXBookmark */;
+			1DEDFFB8123DE00F00AC545A /* PlistBookmark */ = 1DEDFFB8123DE00F00AC545A /* PlistBookmark */;
+			1DEDFFC7123DE43800AC545A /* PBXBookmark */ = 1DEDFFC7123DE43800AC545A /* PBXBookmark */;
+			1DEDFFCC123F42B200AC545A /* PlistBookmark */ = 1DEDFFCC123F42B200AC545A /* PlistBookmark */;
+			1DEDFFCD123F42B200AC545A /* PBXTextBookmark */ = 1DEDFFCD123F42B200AC545A /* PBXTextBookmark */;
+			1DEDFFCE123F42B200AC545A /* PBXTextBookmark */ = 1DEDFFCE123F42B200AC545A /* PBXTextBookmark */;
+			1DEDFFCF123F42B200AC545A /* PBXTextBookmark */ = 1DEDFFCF123F42B200AC545A /* PBXTextBookmark */;
+			1DEDFFD2123F42B200AC545A /* PBXTextBookmark */ = 1DEDFFD2123F42B200AC545A /* PBXTextBookmark */;
+			1DEDFFD3123F42B200AC545A /* PlistBookmark */ = 1DEDFFD3123F42B200AC545A /* PlistBookmark */;
+		};
+		sourceControlManager = 1DAC9C2D115FAF18004787A6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {980, 722}}";
+			sepNavSelRange = "{228, 0}";
+			sepNavVisRange = "{0, 397}";
+			sepNavWindowFrame = "{{119, 134}, {818, 894}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* BritanniClip-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {730, 969}}";
+			sepNavSelRange = "{974, 0}";
+			sepNavVisRange = "{791, 402}";
+			sepNavVisRect = "{{0, 0}, {615, 102}}";
+			sepNavWindowFrame = "{{598, 237}, {1058, 785}}";
+		};
+	};
+}
