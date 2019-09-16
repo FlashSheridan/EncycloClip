@@ -18,7 +18,7 @@ and sometimes needs to scroll down to reveal its search
 results. On recent iOS versions, launching Safari can sometimes take
 several seconds; during this time a blank screen will be displayed.
 
-EncycloClip™ was in the Apple iOS App Store from 2010 until 2019.
+EncycloClip™ was available in the Apple iOS App Store from 2010 until 2019.
 In September 2019 I was told that it violated App Review Guidelines, because 
 I had not needed to update it recently, and that it would be removed within the month.  
 I appealed, pointing out that the Guidelines actually required updating only to ensure 
@@ -30,7 +30,7 @@ now be rejected, as the Britannica web site offers a trial subscription to non-s
 I am therefore making the source code available, so that users with Xcode may install it on iOS devices.
 Users who have upgraded to iOS 11 or later may be able to achieve a similar functionality with 
 <a href="https://routinehub.co/shortcut/2905">Run Shortcut</a>.  (I am still clinging to iOS 10, as
-many of my favorite apps and versions are only available in 32-bit.)
+many of my favorite apps and versions are available only in 32-bit.)
 
 [Known
 Issues](http://pobox.com/~flash/EncycloClip/EncycloClip_Known_Issues.txt)
