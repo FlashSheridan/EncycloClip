@@ -7,7 +7,7 @@ version of the Encyclopædia Britannica® for the contents of your
 clipboard. To use it, select and copy some text (for instance in an
 eBook, web page, or your own notes); then launch EncycloClip™ from your
 home screen. It is possible to do this manually from Safari by visiting
-the m.eb.com website, but EncycloClip™ reduces the minimum tap count for
+the Britannica website, but EncycloClip™ reduces the minimum tap count for
 a lookup to two from eight (or six if you have added it to your Home
 Screen), and eliminates an unnecessary web request.
 
