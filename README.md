@@ -21,8 +21,7 @@ several seconds; during this time a blank screen will be displayed.
 EncycloClip™ was available in the Apple iOS App Store from 2010 until 2019; 
 when I wrote it, it was the only easy way to work around two bugs in mobile Safari and Britannica’s web design.
 In September 2019 I was told that it violated App Review Guidelines, because 
-I had not needed to update it recently, and that it would be removed within the month.  
-I appealed, pointing out that the Guidelines actually required updating only to ensure 
+I had not needed to update it recently, and that it would be removed within the month.  I appealed, pointing out that the Guidelines actually required updating only to ensure 
 that the app remains functional and engaging to new and existing customers; I noted that
 the Encyclopædia Britannica has remained functional and engaging for two centuries.
 I was told that exceptions are not provided.  I was further informed that an update would 
