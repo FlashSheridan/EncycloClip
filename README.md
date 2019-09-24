@@ -18,7 +18,8 @@ and sometimes needs to scroll down to reveal its search
 results. On recent iOS versions, launching Safari can sometimes take
 several seconds; during this time a blank screen will be displayed.
 
-EncycloClip™ was available in the Apple iOS App Store from 2010 until 2019.
+EncycloClip™ was available in the Apple iOS App Store from 2010 until 2019; 
+when I wrote it, it was the only easy way to work around two bugs in mobile Safari and Britannica’s web design.
 In September 2019 I was told that it violated App Review Guidelines, because 
 I had not needed to update it recently, and that it would be removed within the month.  
 I appealed, pointing out that the Guidelines actually required updating only to ensure 
