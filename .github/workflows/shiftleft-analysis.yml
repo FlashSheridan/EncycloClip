@@ -15,7 +15,7 @@ on:
 jobs:
   Scan-Build:
     # Scan runs on ubuntu, mac and windows
-    runs-on: ubuntu-latest
+    runs-on: mac
     steps:
     - uses: actions/checkout@v2
     # Instructions
