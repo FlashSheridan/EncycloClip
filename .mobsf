@@ -1,0 +1,4 @@
+ignore-rules:
+  - ios_jailbreak_detect
+  - ios_piracy_check
+  - ios_detect_jailbreak_check
